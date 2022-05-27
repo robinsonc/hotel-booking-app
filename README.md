@@ -73,7 +73,7 @@ For production build
 
 ## Test Coverage
 
-![App Screenshot](https://i.postimg.cc/N0dz04KW/test-coverage.png)
+97.77 % Lines covered (istanbul)
 
 
 ## API Reference
